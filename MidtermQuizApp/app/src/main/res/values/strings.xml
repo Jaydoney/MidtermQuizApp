@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Midterm Prep</string>
+    <string name = "question_text">What is the practice of keeping fields within a class private, then providing access to them via public methods?</string>
+
+    //Button Texts
+    <string name = "buttonTextA">A</string>
+    <string name = "buttonTextB">B</string>
+    <string name = "buttonTextC">C</string>
+    <string name = "buttonTextD">D</string>
+    <string name = "buttonTextE">E</string>
+    <string name = "buttonTextPrev">Prev</string>
+    <string name = "buttonTextSubmit">Submit</string>
+    <string name = "buttonTextNext">Next</string>
+
+    <string name = "question_1">What is the practice of keeping fields within a class private, then providing access to them via public methods? \n\n[A] Polymoprhism \n[B] Encapsulation \n[C] Cybersecurity \n[D] Hacking \n[E] Hide And Seek (B)</string>
+    <string name = "question_2">What is a special feature of Java that lets programmers create new classes that share some of the attributes of existing classes? \n\n[A] Inheritance \n[B] Abstraction \n[C] Method Overloading \n[D] Method Overriding \n[E] Object-Oriented Programming (A)</string>
+    <string name = "question_3">In what subfolder are string resources stored in? \n\n[A] mipmap \n[B] layout \n[C] drawable \n[D] values \n[E] manifests (D)</string>
+    <string name = "question_4">With what file can you change the layout of your Android app? \n\n[A] layout.java \n[B] layout.xml \n[C] activity_main.xml \n[D] design.java \n[E] design.xml (C)</string>
+    <string name = "question_5">Strings are _________ while Arrays are _______. \n\n[A] primitive data types, objects \n[B] able to be concatenated, not able to be concatenated \n[C] immutable, mutable \n[D] A and B \n[E] None of the Above (C)</string>
+    <string name = "question_6">XML documents must contain one ____ element that is the ______ of all other elements \n\n[A] root, parent \n[B] basic, parent \n[C] parent, root \n[D] common, parent \n[E] None of the above (A)</string>
+    <string name = "question_7">What does Regex stand for? \n\n[A] Regional Express \n[B] Random Elongated Generic Example \n[C] Regular Expressions \n[D] A and C \n[E] None of the Above (C)</string>
+    <string name = "question_8">What type of data type is a String? \n\n[A] A Primitive Data Type \n[B] An object \n[C] A variable \n[D] A and B \n[E] None of the Above (B)</string>
+    <string name = "question_9">The keyword ______ denotes that a method can be called from code in other classes, or that a class may be used by classes outside the class hierarchy. \n\n[A] private \n[B] void \n[C] extends \n[D] if \n[E] public (E)</string>
+    <string name = "question_10">Android SDK uses ____ primairly. \n\n[A] Java \n[B] Python \n[C] HTML \n[D] CSS \n[E] Javascript (A)</string>
+
+    <string name = "score_reveal">Your final score is: </string>
+</resources>
